@@ -1,0 +1,10 @@
+﻿Hello,
+
+You have requested to reset your password.
+
+If you did not submit this request, please disregard this e-mail.
+
+Please click the following link to select a new password: {0}
+This link will be functional for the next 24 hours.
+
+NOTE: This is an auto-generated e-mail. Please do not reply to this message, as your reply will not be read.
